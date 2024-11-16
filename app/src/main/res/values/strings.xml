@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Examen</string>
+
+    <!-- Strign Actividad Retangulo -->
+    <string name="reta">Retangulo</string>
+    <string name="nombre">Escribe tu nombre</string>
+    <string name="lblnombre">Mi nombre es... </string>
+    <string name="base">Base:</string>
+    <string name="altura">Altura:</string>
+    <string name="area">Area: </string>
+    <string name="perimetro">Perimetro: </string>
+
+    <!-- Strign Actividad Calculadora -->
+    <string name="calculadora">Calculadora</string>
+    <string name="usuario">Usuario</string>
+    <string name="contra">Contraseña</string>
+    <string name="resultado">Resultado: </string>
+    <string name="num1">Num 1</string>
+    <string name="num2">Num 2</string>
+    <string name="mas">+</string>
+    <string name="menos">-</string>
+    <string name="por">*</string>
+    <string name="entre">/</string>
+
+
+    <!-- Strign Botones -->
+    <string name="entrar">Entrar</string>
+    <string name="salir">Salir</string>
+    <string name="calcular">Calcular</string>
+    <string name="regresar">Regresar</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
